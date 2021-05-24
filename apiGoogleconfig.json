@@ -1,5 +1,5 @@
 {
-    "clientId": "Client_ID",
+    "clientId": "Client_Id",
     "apiKey": "Your_Api_Key",
     "scope": "https://www.googleapis.com/auth/calendar",
     "discoveryDocs": [
